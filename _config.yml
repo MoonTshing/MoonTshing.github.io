@@ -7,12 +7,12 @@
 
 # Site settings
 title: Gravity
-email: hemangsk@gmail.com
-description: ramblings of a wanderer
+email: chloej4hack@gmail.com
+description: talk to myself
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://www.misscurie.com" # the base hostname & protocol for your site
+twitter_username: ""
+github_username:  moontshing
 
 # Build settings
 markdown: kramdown
